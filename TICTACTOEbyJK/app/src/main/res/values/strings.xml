@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TICTACTOE byJK</string>
+    <string name="restart_game">restart_game</string>
+    <string name="player1_0">player1[X] : 0</string>
+    <string name="player2_0">player2[O]: 0</string>
+    <string name="devloped_by_kanzariya_jayraj">
+        <a href="https://youtu.be/W-hL9M_CbMs" />devloped by kanzariya jayraj</string>
+
+
+
+
+
+    <string name="reset">RESET</string>
+    <string name="player2">player2[O] : 0</string>
+    <string name="player1">player1[X] : 0</string>
+</resources>
